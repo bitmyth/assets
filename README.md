@@ -8,3 +8,6 @@ https://medium.com/@jeftachibiya360/how-to-host-images-for-your-website-on-githu
 ```
 cwebp /path/to/image.jpg -o image.webp
 ```
+
+## URL
+https://bitmyth.github.io/assets/images/{image.webp}
